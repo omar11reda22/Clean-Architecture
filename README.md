@@ -2,14 +2,16 @@
 
 # Overview
 This is a small practice project demonstrating the use of Clean Architecture principles in a .NET 7 application. The project focuses on managing Students and Departments with a one-to-many relationship.
-
++ and add a new commit to authantication and autharization section using (JWT) and create 2 Endpoint (registeration - Login) and test it using postman but
++ I Add a (dot net client) using (httpclient) (Microsoft.AspNet.WebApi.Client) (windows Form as a (consumer))   
 # Technologies Used
-.NET 7
+.NET 7 
 Entity Framework Core 7
 AutoMapper
 CQRS (Command Query Responsibility Segregation)
 MediatR
-
+JWT 
+WindowsForm 
 # Project Structure
 The project follows the Clean Architecture pattern, which is divided into several layers:
 
